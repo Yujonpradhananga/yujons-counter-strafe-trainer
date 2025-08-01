@@ -4,7 +4,7 @@ A terminal-based counter-strafe mechanics trainer built with Go and Bubble Tea, 
 
 ## 🎯 What is Counter-Strafing?
 
-Counter-strafing is a fundamental movement technique in tactical FPS games where you quickly tap the opposite movement key to instantly stop your momentum, allowing for precise shooting. This trainer simulates that mechanic with a 300ms accuracy window.
+Counter-strafing is a fundamental movement technique in tactical FPS games where you quickly tap the opposite movement key to instantly stop your momentum, allowing for precise shooting. This trainer simulates that mechanic with a 100ms accuracy window.
 
 ## 🚀 Features
 
