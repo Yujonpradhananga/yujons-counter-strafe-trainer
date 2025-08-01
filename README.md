@@ -29,7 +29,7 @@ cd counter-strafe-trainer
 
 2. Initialize Go module and install dependencies:
 ```bash
-go mod init counter-strafe-trainer
+go mod init yujons-counter-strafe-trainer
 go get github.com/charmbracelet/bubbletea
 go get github.com/charmbracelet/lipgloss
 ```
