@@ -51,7 +51,7 @@ go run main.go
 1. A red target block spawns randomly on the horizontal line
 2. Use A/D keys to move your crosshair (`+`) toward the target
 3. When your crosshair is on the target, it turns **green** only when you can shoot accurately:
-   - During the 300ms counter-strafe window (when you press opposite direction)
+   - During the 100ms counter-strafe window (when you press opposite direction)
    - When you're naturally at standstill
 4. Left-click to shoot and score points
 5. A new target spawns after each successful hit
